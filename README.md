@@ -6,16 +6,16 @@
 Usage    
 ```
 Usage:     
-      bash appex.sh [install |uninstall |install '{serverSpeeder of Kernel Version}']     
+      bash appex_oooxooo.sh [install |uninstall |install '{serverSpeeder of Kernel Version}']     
 ```
 Install
 ```
-wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/oooxooo/serverSpeeder_Install/master/appex_oooxooo.sh && chmod +x appex.sh && bash appex.sh install
+wget --no-check-certificate -O appex_oooxooo.sh https://raw.githubusercontent.com/oooxooo/serverSpeeder_Install/master/appex_oooxooo.sh && chmod +x appex_oooxooo.sh && bash appex_oooxooo.sh install
 
 ```    
 Uninstall    
 ```
-wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/oooxooo/serverSpeeder_Install/master/appex_oooxooo.sh && chmod +x appex.sh && bash appex.sh uninstall
+wget --no-check-certificate -O appex_oooxooo.sh https://raw.githubusercontent.com/oooxooo/serverSpeeder_Install/master/appex_oooxooo.sh && chmod +x appex_oooxooo.sh && bash appex_oooxooo.sh uninstall
 
 ```  
 -----------------------------     
